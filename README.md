@@ -1,6 +1,6 @@
 <h1 align="center">Melike Esen</h1>
 <p align="center">
-Python Backend Developer | 42 İstanbul
+Python Backend Developer | 42 Kocaeli
 </p>
 
 ---
