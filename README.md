@@ -37,7 +37,3 @@ Python Backend Developer | 42 İstanbul
   <img src="https://github-readme-stats.vercel.app/api?username=Melike-Esen&show_icons=true&theme=tokyonight"/>
 </p>
 
----
-
-### Contact
-- LinkedIn: https://linkedin.com/in/melike-esen-987701223
