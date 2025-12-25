@@ -1,51 +1,49 @@
-# Melike Esen
+# 👋 Hi, I'm Melike Esen
 
 **Python Backend Developer | Mobile Developer | 42 Kocaeli**
 
-### 👩‍💻 Hakkımda
+---
 
-* 🐍 **Python** ile backend geliştirme, API ve veritabanı temelli uygulamalar.
-* 📱 **Flutter** ile profesyonel iş süreçlerinde mobil uygulama geliştirme.
-* 💻 **42 Kocaeli** projeleri ile edinilmiş C ve sistem programlama altyapısı.
-* 🌱 Okunabilir ve sürdürülebilir kod odaklı çalışma disiplini.
+## 🚀 About Me
+- Python ile **backend & API** geliştirme  
+- **Django** tabanlı veri ve servis mimarileri  
+- **Flutter** ile mobil uygulama geliştirme  
+- 42 projeleriyle kazanılmış **C & sistem programlama** altyapısı  
+- Temiz, okunabilir ve sürdürülebilir kod odaklı çalışma
 
 ---
 
-### 🛠 Kullandığım Teknolojiler
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 📂 Proje ve Çalışma Alanları
+## 📂 Selected Projects
+- **Python Data Projects**  
+  Veri analizi, algoritmalar ve Django mimarisi
 
-| Alan | Proje / Repo | Açıklama |
-| :--- | :--- | :--- |
-| 🐍 **Backend & Veri** | [**Python-Data-Projects**](https://github.com/Melike-Esen/Python-Data-Projects) | Veri analizi (Kadın Cinayetleri Projesi), Django mimarisi ve Python algoritmaları. |
-| 📱 **Mobil (İş)** | **Anabasis (Private)** | Profesyonel iş kapsamında geliştirilen; Riverpod ve Clean Architecture yapılı mobil uygulama. |
-| 🤖 **Android** | [**Android-Studio-Projects**](https://github.com/Melike-Esen/Android-Studio-Projects) | Java ve Dart temelli native mobil uygulama çalışmaları. |
-| 🌐 **Web** | [**Web-Design-Projects-2021**](https://github.com/Melike-Esen/Web-Design-Projects-2021) | HTML5 ve CSS3 responsive tasarım projeleri. |
+- **Anabasis (Private)**  
+  Clean Architecture & Riverpod kullanılan profesyonel mobil uygulama
+
+- **Android Studio Projects**  
+  Java & Dart tabanlı native mobil çalışmalar
+
+- **Web Design Projects**  
+  HTML5 & CSS3 responsive tasarımlar
 
 ---
 
-### 📊 GitHub İstatistikleri
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Melike-Esen&show_icons=true&theme=tokyonight" />
+</p>
 
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melike-Esen&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/Melike-Esen)
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melike-Esen&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/Melike-Esen)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melike-Esen&layout=compact&theme=tokyonight" />
+</p>
