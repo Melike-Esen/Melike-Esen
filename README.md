@@ -38,9 +38,14 @@
 
 ### 📊 GitHub İstatistikleri
 
+### 📊 GitHub İstatistikleri
+
 <div align="center">
-  <a href="https://github.com/Melike-Esen">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Melike-Esen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melike-Esen&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-  </a>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melike-Esen&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/Melike-Esen)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melike-Esen&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/Melike-Esen)
+
 </div>
