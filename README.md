@@ -40,10 +40,12 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Melike-Esen&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melike-Esen&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="github stats" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINIZ&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="top languages" />
+  </a>
+</div>
