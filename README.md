@@ -41,7 +41,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Melike-Esen&show_icons=true&theme=tokyonight&hide_border=true" alt="Melike Esen Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melike-Esen&layout=compact&theme=tokyonight&hide_border=true" alt="Melike Esen Top Langs" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melike-Esen&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melike-Esen&layout=compact&theme=tokyonight&hide_border=true)
