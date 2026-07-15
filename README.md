@@ -1,20 +1,49 @@
-# Merhaba, Ben Melike Esen! 👋
+# 👋 Merhaba, Ben Melike Esen
 
-Python ve FastAPI odaklı backend mimarileri tasarlayan ve ekiplere teknik liderlik yapan bir yazılım geliştiricisiyim[cite: 2]. Ürünlerin uçtan uca teknik süreçlerini yönetmekten, yapay zeka destekli sistemler kurmaktan ve teknoloji atölyelerinde geleceğin mühendislerine danışmanlık yapmaktan keyif alıyorum[cite: 2].
+**Backend Ekip Lideri | Python & FastAPI Geliştirici | 42 Kocaleli | T3 Teknoloji Atölyeleri**
 
-### 🛠️ Teknolojiler & Araçlar
-* **Backend & Veritabanı:** Python, FastAPI, Django, Pydantic, SQL, PHP, REST API[cite: 2]
-* **Düşük Seviye & Donanım:** C, C++, Shell (Bash), Deneyap Kart[cite: 2]
-* **Mobil Entegrasyon:** Flutter (Provider Pattern), Kotlin (Temel), Android Studio[cite: 2]
-* **Araçlar & İşletim Sistemleri:** Git, GitHub, Docker, Kali Linux, Oracle VM, Postman, VS Code[cite: 2]
+---
 
-### 🚀 Odaklandığım Alanlar & Çalışmalarım
-* ☁️ **Backend Mimarisi & Liderlik:** Yapay zeka destekli sistemlerin uçtan uca backend mimarisini kuruyor, REST API tasarımlarını yapıyor ve geliştirici ekiplere mentorluk ile teknik liderlik yapıyorum[cite: 2].
-* 🤖 **Eğitici Robotik & Danışmanlık:** Teknoloji atölyelerinde yapay zeka temelli robotik kodlama eğitimleri tasarlıyor, öğrencilerin Antigravity gibi yapay zeka ajanlarıyla hızlı proje geliştirme (rapid prototyping) deneyimi kazanmasına rehberlik ediyorum[cite: 2]. Deneyap Atölyelerinde proje takımlarına teknik danışmanlık veriyorum[cite: 2].
-* 📱 **Sistem Entegrasyonu:** Backend verilerinin mobil arayüze entegrasyonunu, veri akışını ve durum yönetimi (state management) süreçlerini optimize ediyorum[cite: 2].
-* ⚙️ **Çekirdek Sistem Geliştirme:** C ve Bash ile düşük seviyeli programlama, algoritma tasarımı ve bellek yönetimi odaklı projeler geliştiriyorum[cite: 2].
+## 🚀 Hakkımda
+- Python ve **FastAPI** ile uçtan uca backend mimarileri & REST API tasarımı[cite: 2]  
+- **Anabasis'te** Backend Ekip Lideri olarak ürün geliştirme ve teknik mentorluk süreçlerinin yönetimi[cite: 2]  
+- **Flutter** tarafında Provider (State Management) entegrasyonu ve veri akışı optimizasyonu[cite: 2]  
+- 42 İstanbul projeleriyle kazanılmış **C & Shell (Bash)** tabanlı düşük seviyeli programlama altyapısı[cite: 2]  
+- Teknoloji ve Deneyap Atölyelerinde yapay zeka temelli robotik kodlama (Deneyap Kart) danışmanlığı[cite: 2]
 
-### 📈 GitHub İstatistikleri
-[![Melike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melike-Esen&show_icons=true&theme=radical)](https://github.com/Melike-Esen)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melike-Esen&layout=compact&theme=radical)](https://github.com/Melike-Esen)
+---
 
+## 🛠 Teknolojiler & Araçlar
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📂 Öne Çıkan Çalışmalarım
+
+- **Anabasis (Gizli Proje)**  
+  Yapay zeka destekli bir ürünün FastAPI ve Pydantic kullanılarak backend mimarisinin tasarlanması ve uçtan uca yönetilmesi[cite: 2].
+
+- **42 İstanbul Çekirdek Projeleri**  
+  C ve Shell (Bash) kullanarak bellek yönetimi ve algoritma odaklı çekirdek sistem projelerinin geliştirilmesi[cite: 2].
+
+- **Mobil Sistem Entegrasyonu**  
+  Flutter ve Provider Pattern kullanılarak backend servislerinin mobil arayüzlerle haberleşmesinin koordine edilmesi[cite: 2].
+
+- **Teknoloji Atölyeleri (T3 Vakfı)**  
+  Antigravity gibi yapay zeka ajanlarıyla hızlı proje geliştirme (rapid prototyping) süreçlerine rehberlik ve Deneyap Kart odaklı robotik çalışmalar[cite: 2].
+
+---
+
+### 📊 GitHub İstatistikleri
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melike-Esen&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melike-Esen&layout=compact&theme=tokyonight&hide_border=true)
